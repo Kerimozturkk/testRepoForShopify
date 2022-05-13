@@ -1,3 +1,1 @@
-var script = document.createElement("h2");
-script.innerHTML = "Mağazaya script ekledik";
-document.body.appendChild(script);
+document.body.innerHTML = '<div style="position:absolute;width:100%;height:100%;opacity:0.3;z-index:100;background:#000;">Merhaba Dostlar</div>';
